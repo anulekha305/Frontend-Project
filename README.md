@@ -1,4 +1,5 @@
-<b>Tour Travel Website <b/>
+# Tour Travel Website 
+<hr/>
 # Frontend-Project
 My Frontend Project
 <br>
