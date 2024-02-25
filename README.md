@@ -1,4 +1,8 @@
+<b>Tour Travel Website <b/>
 # Frontend-Project
 My Frontend Project
 <br>
-This is a Tour Trave Agency Website Design using HTML,CSS JavaScript.
+<b>Tools and Technology Used<b/>
+HTML,CSS,JavaScript
+<b> A demo Link if this project <b/>
+
